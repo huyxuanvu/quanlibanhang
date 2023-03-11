@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "id": 100002,
+      "name": "Iphone 14 Pro Max",
+      "type": "Điện tử",
+      "quantity": 26,
+      "brand": "Apple",
+      "releaseDate": "2022-06-27T11:14:50.6938292+07:00",
+      "price": 35000000,
+      "discount": null
+    },
+    {
+      "id": 100003,
+      "name": "Xà lách",
+      "type": "Thực phẩm",
+      "quantity": 25,
+      "brand": "VGarden",
+      "releaseDate": "2022-06-27T11:14:50.6938292+07:00",
+      "price": 20000,
+      "discount": null
+    },
+    {
+      "id": 100004,
+      "name": "Thịt gà",
+      "type": "Thực phẩm",
+      "quantity": 13,
+      "brand": "VGarden",
+      "releaseDate": "2022-06-27T11:14:50.6938292+07:00",
+      "price": 80000,
+      "discount": null
+    },
+    {
+      "id": 100005,
+      "name": "Mì hảo hảo",
+      "type": "Thực phẩm",
+      "quantity": 300,
+      "brand": "AceCook",
+      "releaseDate": "2022-06-27T11:14:50.6938292+07:00",
+      "price": 3500,
+      "discount": null
+    },
+    {
+      "id": 100007,
+      "name": "Quần short",
+      "type": "Thời trang",
+      "quantity": 100,
+      "brand": "Việt Tiến",
+      "releaseDate": "2022-06-27T11:14:50.6938292+07:00",
+      "price": 125000,
+      "discount": null
+    },
+    {
+      "id": 100008,
+      "name": "iPhone 15 Pro Max",
+      "type": "Điện tử",
+      "quantity": 96,
+      "brand": "Apple",
+      "releaseDate": "2022-08-01T08:40:37.564605+07:00",
+      "price": 38500000,
+      "discount": null
+    },
+    {
+      "id": 100010,
+      "name": "Máy hút bụi X550",
+      "type": "Điện tử",
+      "quantity": 99,
+      "brand": "Xiaomi",
+      "releaseDate": "2022-05-04T09:05:11",
+      "price": 4050000,
+      "discount": null
+    },
+    {
+      "id": 100011,
+      "name": "Siêu cầu Thủ phạm xuân thắng",
+      "type": "nguoi dep",
+      "quantity": 1,
+      "brand": "lò đào tạo huy",
+      "releaseDate": "2023-03-11T15:43:38.338025+07:00",
+      "price": 999999999,
+      "discount": {
+        "id": 1000000,
+        "name": "KM 1/1",
+        "start": "2022-01-01T01:01:01",
+        "end": "2022-01-01T23:59:59",
+        "type": "Giảm giá trực tiếp",
+        "amount": 50000,
+        "percent": 0
+      }
+    }
+  ]
+}

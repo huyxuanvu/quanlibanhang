@@ -1,0 +1,49 @@
+{
+  "customers": [
+    {
+      "customerType": "Khách mua lẻ",
+      "point": 100,
+      "createdTime": "2022-08-01T08:59:35.5972616+07:00",
+      "email": "vanlong@xmail.com",
+      "id": "091646996",
+      "name": {
+        "first": "Long",
+        "last": "Nguyễn",
+        "mid": "Văn"
+      },
+      "birthDate": "1995-08-12T08:58:33",
+      "address": "Thanh Hóa",
+      "phoneNumber": "0912002003"
+    },
+    {
+      "customerType": "Khách mua lẻ",
+      "point": 100,
+      "createdTime": "2022-08-01T09:00:41.5283448+07:00",
+      "email": "linhcute@xmail.com",
+      "id": "09165335624",
+      "name": {
+        "first": "Linh",
+        "last": "Đinh",
+        "mid": "Thùy"
+      },
+      "birthDate": "1998-08-18T08:58:33",
+      "address": "Thái Nguyên",
+      "phoneNumber": "0912002004"
+    },
+    {
+      "customerType": "Khách mua lẻ",
+      "point": 100,
+      "createdTime": "2023-03-11T16:17:29.9159557+07:00",
+      "email": "huykhongcare@gmail.com",
+      "id": "200305",
+      "name": {
+        "first": "Huy",
+        "last": "Vũ",
+        "mid": "Xuân"
+      },
+      "birthDate": "2005-03-20T16:16:30",
+      "address": "yên thái",
+      "phoneNumber": "0834563478"
+    }
+  ]
+}
